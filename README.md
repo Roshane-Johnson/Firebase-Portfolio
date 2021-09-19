@@ -1,10 +1,10 @@
 # Roshane's Portfolio
 
 ## Pages
-- Home
-- Projects
-- About
-- Contact
+> - Home
+> - Projects
+> - About
+> - Contact
 
 ###### Home
 The home page contains a simple description of the portfolio.
